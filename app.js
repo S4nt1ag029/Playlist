@@ -53,7 +53,7 @@ const canciones = [
     },
     {titulo:'Me Rehuso',
     nombre:'Danny Ocean',
-    fuente:'music/Danny Ocean -  Me Rehúso.mp3',
+    fuente:'music/Danny Ocean - Me Rehúso.mp3',
     },
     {titulo:'Báilame',
     nombre:'Danny Ocean',
